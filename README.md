@@ -12,8 +12,8 @@
 ```javascript
 const thai = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, C#, Python, Java],
-  tools: [.Net,, NetBeans JDK, Asp.Net]
+  code: [Sql, Python],
+  tools: [NetBeans JDK, ]
   
                     
   "I am learning different languages ​​
